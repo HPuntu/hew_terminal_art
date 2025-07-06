@@ -1,4 +1,4 @@
-![ascii_image](burial_crop.jgp)
+![ascii_image](burial_ascii.png)
 
 Basic script and associated image for converting jpg to ascii art that I use for my terminal startup.
 
